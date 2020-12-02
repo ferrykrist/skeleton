@@ -1,5 +1,7 @@
 .DS_Store
 
+application/config/database.php
+upload/
 application/cache/*
 !application/cache/index.html
 
